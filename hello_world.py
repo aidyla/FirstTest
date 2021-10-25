@@ -6,5 +6,4 @@ This is a temporary script file.
 """
 
 print ("Hello world")
-print ("Hello world again")
 
